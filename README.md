@@ -15,6 +15,12 @@ These are my collected recipes for cooking and brewing.
 
 ## Blog
 
-{% for post in site.posts %}
-    - [{{ post.title }}]({{ post.url }})
-{% endfor %}
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
