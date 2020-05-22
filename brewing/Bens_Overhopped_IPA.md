@@ -3,15 +3,16 @@
 
 # Hoppy IPA
 
-Small 5l brew
+Makes a small 5l brew
 
+```
 5L Water
 500g Pale Malt 
 50g Crystal Malt
 50g Torrified Crushed Wheat Malt 
-
 19.5g Mosaic Hops
 19.5g Chinook Hops
+```
 
 (Mix Hops so it's a 50:50 mix)
 
@@ -36,7 +37,7 @@ Heat water to a rolling boild, start 60m timer when it starts boiling.
 
 Top up as needed during boil
 
-Do NOT contaminate after this. 
+**Do NOT contaminate after this. **
 
 Cool to 30 degrees or less in the sink filled with water. 
 
@@ -46,10 +47,12 @@ Sprinkle 1/3rd sachet of US-05 yeast. seal and add bubbler.
 
 Ferment in a dark place ideally at 22 degrees for 10 days. 
 
-Bottle... 
+
+### Bottling
+ 
 
 
 ## Brews
 
-20 May 2020 - Initial Gravity: 0.000
+20 May 2020 - Initial Gravity: 0.000???
 
