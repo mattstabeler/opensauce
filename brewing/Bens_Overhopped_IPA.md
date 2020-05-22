@@ -47,3 +47,9 @@ Sprinkle 1/3rd sachet of US-05 yeast. seal and add bubbler.
 Ferment in a dark place ideally at 22 degrees for 10 days. 
 
 Bottle... 
+
+
+## Brews
+
+20 May 2020 - Initial Gravity: 0.000
+
