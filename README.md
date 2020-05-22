@@ -10,7 +10,7 @@ These are my collected recipes for cooking and brewing.
 **Brewing**
 
 - [Cherry Wine](brewing/Cherry_Wine)
-
+- [Ben's Over-Hopped IPA](brewing/Bens_Overhopped_IPA)
 
 
 ## Blog
