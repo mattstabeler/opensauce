@@ -18,16 +18,14 @@ Makes a small 5l brew
 
 ---
 
-Heat Water to 70 Degrees. 
 
-Steep malts (in a straining bag) for 60 mins keeping temp between 64 and 68 degrees. 
-
-Lift out bag and allow to drain, then run boiling water over to release more sugars. 
+[Steep the malt and start the boil](Steeping_and_Boiling)
 
 
 
 
-Heat water to a rolling boild, start 60m timer when it starts boiling.
+
+## Hops
 60: 4g  (add immediately when starting to heat)
 15: 10g
 10: 10g
@@ -49,10 +47,12 @@ Ferment in a dark place ideally at 22 degrees for 10 days.
 
 
 ### Bottling
- 
 
+5ml of sugar per 500ml bottle. Leave for at least 10 days.
 
 ## Brews
 
-20 May 2020 - Initial Gravity: 0.000???
+20 May 2020 - Initial Gravity: 1.00029, ended at 1.00011 - ~3.1% alchohol. Note: added water after the boild to increase volume. 
+
+
 
