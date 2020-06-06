@@ -21,6 +21,7 @@ S04 Yeast 1/3rd Sachet
 [Steep the malt and start the boil](Steeping_and_Boiling)
 
 ## Hops
+
 60: 10g  (add immediately when starting to heat)
 10: 10g
 

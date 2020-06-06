@@ -26,6 +26,7 @@ Makes a small 5l brew
 
 
 ## Hops
+
 60: 4g  (add immediately when starting to heat)
 15: 10g
 10: 10g
