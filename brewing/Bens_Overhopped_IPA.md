@@ -21,22 +21,21 @@ Makes a small 5l brew
 
 [Steep the malt and start the boil](Steeping_and_Boiling)
 
-
-
-
-
 ## Hops
 
+
+```
 60: 4g  (add immediately when starting to heat)
 15: 10g
 10: 10g
 5: 10g
 2: 5g
-
+```
 
 Top up as needed during boil
 
-**Do NOT contaminate after this. **
+** Do NOT contaminate after this. **
+
 
 Cool to 30 degrees or less in the sink filled with water. 
 
@@ -49,9 +48,12 @@ Ferment in a dark place ideally at 22 degrees for 10 days.
 
 ### Bottling
 
+
 5ml of sugar per 500ml bottle. Leave for at least 10 days.
 
+
 ## Brews
+
 
 20 May 2020 - Initial Gravity: 1.00029, ended at 1.00011 - ~3.1% alchohol. Note: added water after the boild to increase volume. 
 
