@@ -5,6 +5,8 @@
 
 Makes a small 5l brew
 
+Ingredients
+
 ```
 5L Water
 500g Pale Malt 
@@ -21,7 +23,8 @@ Makes a small 5l brew
 
 [Steep the malt and start the boil](Steeping_and_Boiling)
 
-## Hops
+
+## Hops
 
 
 ```
@@ -34,28 +37,30 @@ Makes a small 5l brew
 
 Top up as needed during boil
 
-** Do NOT contaminate after this. **
+
+_Do NOT contaminate after this._
 
 
 Cool to 30 degrees or less in the sink filled with water. 
 
 Transfer to fermenting bucket, sieving out hops. 
+ of US-05 yeast. seal and add bubbler. 
 
-Sprinkle 1/3rd sachet of US-05 yeast. seal and add bubbler. 
-
+Sprinkle 1/3rd sachet
 Ferment in a dark place ideally at 22 degrees for 10 days. 
 
 
 ### Bottling
-
 
 5ml of sugar per 500ml bottle. Leave for at least 10 days.
 
 
 ## Brews
 
-
-20 May 2020 - Initial Gravity: 1.00029, ended at 1.00011 - ~3.1% alchohol. Note: added water after the boild to increase volume. 
+_20 May 2020_ 
+- Initial Gravity: 1.00029, 
+- Bottled on _29th May 2020_ at 1.00011 - ~3.1% alchohol. 
+Note: added water after the boil to increase volume
 
 
 
