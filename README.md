@@ -11,7 +11,8 @@ These are my collected recipes for cooking and brewing.
 
 - [Cherry Wine](brewing/Cherry_Wine)
 - [Ben's Over-Hopped IPA](brewing/Bens_Overhopped_IPA)
-- [Ben's Stout Recipe](brewing/Bens_Stout)
+- [Stout Recipe](brewing/Bens_Stout)
+- [English Ale Recipe](brewing/English_Ale)
 
 
 ## Blog

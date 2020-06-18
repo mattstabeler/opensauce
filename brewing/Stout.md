@@ -45,7 +45,11 @@ Ferment in a dark place ideally at 22 degrees for 10 days.
 
 ## Brews
 
-02 June 2020 - Initial Gravity: 1.00031, ended at ??/ - ???% alchohol. Note: added water after the boild to increase volume. 
+### 02 June 2020
+Initial Gravity: 1.00031 ended at ??/ =  ~3.1% alchohol. 
+Note: added water after the boild to increase volume. 
+Bottled ??? June 2020
+
 
 
 
