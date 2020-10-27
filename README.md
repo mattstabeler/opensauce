@@ -9,9 +9,11 @@ These are my collected recipes for cooking and brewing.
 
 **Brewing**
 
+[How to Brew Beer](brewing/How_to_Brew_Beer)
+
 - [Cherry Wine](brewing/Cherry_Wine)
 - [Ben's Over-Hopped IPA](brewing/Bens_Overhopped_IPA)
-- [Stout Recipe](brewing/Bens_Stout)
+- [Stout Recipe](brewing/Stout)
 - [English Ale Recipe](brewing/English_Ale)
 
 

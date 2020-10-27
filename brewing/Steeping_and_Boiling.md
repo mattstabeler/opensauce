@@ -7,7 +7,7 @@ Heat Water to 70 Degrees.
 
 Steep malts (in a straining bag) for 60 mins keeping temp between 64 and 68 degrees. 
 
-Lift out bag and allow to drain, then run boiling water over to release more sugars. 
+Lift out bag and allow to drain, then run -boiling- just a little cold water over to release more sugars. 
 
 
 # Boiling
