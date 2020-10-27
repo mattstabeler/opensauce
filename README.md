@@ -10,7 +10,7 @@ These are my collected recipes for cooking and brewing.
 **Brewing**
 
 [How to Brew Beer](brewing/How_to_Brew_Beer)
-
+- [English Ale Recipe](brewing/Simple_English_Ale)
 - [Cherry Wine](brewing/Cherry_Wine)
 - [Ben's Over-Hopped IPA](brewing/Bens_Overhopped_IPA)
 - [Stout Recipe](brewing/Stout)

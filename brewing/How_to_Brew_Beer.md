@@ -56,6 +56,9 @@ Measure the sugar level with a Hygrometer, it should be around 1.04 or more - ke
 
 Spinkle over the yeast, (about 10-12g for a 15l brew) and put the lid on, put a bubbler in, and allow it to ferment for around 10 days. 
 
+Ferment in a dark place ideally at around 22 degrees for 10 days (check your yeast instructions). 
+
+
 *you might find bubbling stops after 5-7 days, but best advice is don't bottle too early!!! never before 7 days in case of explosions*
 
 ## Dry Hopping

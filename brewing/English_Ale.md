@@ -35,8 +35,6 @@ If you want to boost the sweetness and make it more full bodied boost the crysta
 The wheat is mostly to give some body, and a good head. Typically you want 10% of the pale as wheat for body/head
 
 
-Top up as needed during boil
-
 _Do NOT contaminate after this._
 
 
@@ -47,9 +45,9 @@ Ferment in a dark place ideally at 22 degrees for 10 days.
 
 
 
-## Brews
+<!-- ## Brews
 
 ### ?? June 2020
 Initial Gravity: 1.000xxx ended at 1.000 =  ~x.x% alchohol. 
 Bottled ??? June 2020
-
+ -->
