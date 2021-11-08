@@ -16,6 +16,7 @@ These are my collected recipes for cooking and brewing.
 - [Stout Recipe](brewing/Stout)
 - [English Ale Recipe](brewing/English_Ale)
 - [Shere Drop, Surrey Hills clone](brewing/Shere_Drop_Clone)
+- [East India 1868 IPA](brewing/1868_IPA)
 
 
 ## Blog
