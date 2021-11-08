@@ -1,4 +1,4 @@
-A clone of this lovely beer: https://surreyhills.co.uk/portfolio/shere-drop-abv-4-2-percent/
+A clone of this [lovely beer](https://surreyhills.co.uk/portfolio/shere-drop-abv-4-2-percent/)
 
 Brew Volume: 25L
 
