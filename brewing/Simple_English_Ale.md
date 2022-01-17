@@ -11,7 +11,7 @@ Wheat: 125g
 Crystal: 20g
 Golding Hops: 65g
 Irish Moss: 1tsp
-Yeast: “the blue one"
+Yeast: “the blue one" - Safale S-04
 ```
 
 
