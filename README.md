@@ -3,13 +3,17 @@
 These are my collected recipes for cooking and brewing. 
 
 
-**Food**
+## Food
 
 - [Yorkshire Puddings](recipes/Yorkshire_Puddings) 
 
-**Brewing**
+### Brewing
 
-[How to Brew Beer](brewing/How_to_Brew_Beer)
+- [How to Brew Beer](brewing/How_to_Brew_Beer)
+- [How Much to Sparge](brewing/How_Much_To_Sparge)
+
+### Recipes
+
 - [English Ale Recipe](brewing/Simple_English_Ale)
 - [Cherry Wine](brewing/Cherry_Wine)
 - [Ben's Over-Hopped IPA](brewing/Bens_Overhopped_IPA)
