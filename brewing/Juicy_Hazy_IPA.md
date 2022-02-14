@@ -1,6 +1,7 @@
 from: https://www.homebrewtalk.com/threads/top-few-hops-for-juicy-hazy-neipa.675188/
 
-Swapped El-Dorado for Amarillo pellets
+Swapped El-Dorado for Amarillo pellets,
+Swapped Yeast for S-04
 
 
 ## Water
