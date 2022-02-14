@@ -21,6 +21,8 @@ These are my collected recipes for cooking and brewing.
 - [English Ale Recipe](brewing/English_Ale)
 - [Shere Drop, Surrey Hills clone](brewing/Shere_Drop_Clone)
 - [East India 1868 IPA](brewing/1868_IPA)
+- [Toast Ale Chocolate Stout](brewing/Toast_Chocolate_Stout) - uses bread
+
 
 
 ## Blog
