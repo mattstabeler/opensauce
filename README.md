@@ -23,6 +23,7 @@ These are my collected recipes for cooking and brewing.
 - [East India 1868 IPA](brewing/1868_IPA)
 - [Toast Ale Chocolate Stout](brewing/Toast_Chocolate_Stout) - uses bread
 - [Juicy Hazy IPA](brewing/Juicy_Hazy_IPA)
+- [Sourdough Loaf](recipes/Sourdough_Loaf)
 
 
 
