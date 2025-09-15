@@ -13,7 +13,7 @@ For this recipe, you need a sourdough starter ... howto coming soon, assuming yo
 
 - Sieve the flour into a large bowl, add 10g of salt and combine
 
-(I find using a hand whisk is quite good for keeping things light an airy)
+(I find using a hand whisk is quite good for keeping things light and airy)
 
 - Add the starter to the water and mix gently until mostly dissolved 
 
@@ -29,7 +29,7 @@ I like to add a damp tea-towel over the top, so I'm not watching it and to hold 
 
 - Stretch the dough (4 folds), every 30 minutes for 2 hours (total of 4 session, of 4 folds = 16 folds). 
 
-Every half an hour, get a handful of dough from one side of the bowl, and pull it gently so the dough streches out as long as you can get it, then fold it over itself. Turn the bowl 90 degrees, and do the same again, and again, and again. That's your first "Stretch" session (i.e. do 4 folds every 30 mins). 
+Every half an hour, get a handful of dough from one side of the bowl, and pull it gently so the dough stretches out as long as you can get it, then fold it over itself. Turn the bowl 90 degrees, and do the same again, and again, and again. That's your first "Stretch" session (i.e. do 4 folds every 30 mins). 
 This is not a strict rule, you might find more folds is better - who knows! Experiment!
 
 - Allow the dough to "bulk ferment" for as long as it takes - give it a good 3-4 hours at room temp if it's winter, give it longer
@@ -46,21 +46,21 @@ Pinch any loose bits together so that it's all in a bowl, this will end up being
 
 - Put the banneton in a plastic bag or cover with clingfilm, and place in the fridge for 12-36 hours
 
-This is to keep the moisture in, and allow the dough to "autolyse" (hydrate and strenghten gluten development) - the longer you leave it, more "sour" it will be.
+This is to keep the moisture in, and allow the dough to "autolyse" (hydrate and strengthen gluten development) - the longer you leave it, more "sour" it will be.
 
-- Pre-heat a dutch ovem, or lidded ceramic dish to 220C
+- Pre-heat a dutch oven, or lidded ceramic dish to 220C
 
 This is so the bread gets a good start in an already warm container
 
 - Tip the dough onto a lightly floured surface (top side up) and score the bread about 2-3cm deep along most of the longest length using a bread "lame", a razor blade, or a very sharp knife
 
-You can also add some more decorative cuts that should come out in the bread. the Point of the deep score is to allow the bread to expand during cooking. 
+You can also add some more decorative cuts that should come out in the bread. the point of the deep score is to allow the bread to expand during cooking. 
 
-- Put the dough into the dutch over or disk, and cook for around 50 minutes, keep the lid on for the first half and take it off for the last
+- Put the dough into the dutch oven or dish, and cook for around 50 minutes, keep the lid on for the first half and take it off for the last
 
 Keeping the lid on makes the bread keep the moisture in the crust, giving the amazing crunchiness, when it comes off, that's when it browns off nicely. 
 
-- Allow to cool for at least 2 hour
+- Allow to cool for at least 2 hours
 
 This allows any remaining moisture to come out whilst it cools so you don't have soggy/doughy bread!
 
@@ -73,7 +73,6 @@ Enjoy!
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/db9bd788-175c-46b0-8756-4bd5f5142ebc" />
 
 <img width="996" height="931" alt="image" src="https://github.com/user-attachments/assets/c1679d27-6b43-4a1a-85a5-b38e586fe584" />
-ments/assets/55909b51-fe2b-4e36-b345-86d180570f98" />
 
 <img width="400"  alt="image" src="https://github.com/user-attachments/assets/b9f09ce8-5ab6-4b72-b210-c98003190893" />
 
