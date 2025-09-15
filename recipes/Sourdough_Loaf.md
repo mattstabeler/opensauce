@@ -72,7 +72,7 @@ Enjoy!
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/db9bd788-175c-46b0-8756-4bd5f5142ebc" />
 
-<img width="400" alt="image" src="https://github.com/user-attach<img width="996" height="931" alt="image" src="https://github.com/user-attachments/assets/c1679d27-6b43-4a1a-85a5-b38e586fe584" />
+<img width="996" height="931" alt="image" src="https://github.com/user-attachments/assets/c1679d27-6b43-4a1a-85a5-b38e586fe584" />
 ments/assets/55909b51-fe2b-4e36-b345-86d180570f98" />
 
 <img width="400"  alt="image" src="https://github.com/user-attachments/assets/b9f09ce8-5ab6-4b72-b210-c98003190893" />
