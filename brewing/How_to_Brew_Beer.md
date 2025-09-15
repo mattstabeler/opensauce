@@ -17,7 +17,7 @@ Heat Water to 70 Degrees. Add the malt to a straining bag, and put into the wate
 
 Steep the malts for 60 mins keeping temp between 64 and 68 degrees. (some recipes call for longer steeping times). 
 
-_do not allow it to go too far over 70 degrees, as that will destroy the enzymes, also don't let ot go below 64 degrees as the sugars will not be released (these numbers are based on advice I was gived, not actual science_ 
+_do not allow it to go too far over 70 degrees, as that will destroy the enzymes, also don't let it go below 64 degrees as the sugars will not be released (these numbers are based on advice I was given, not actual science_ 
 
 
 _I wrap the pot in towels to hold some heat in, which usually means I don't need to heat it up again_

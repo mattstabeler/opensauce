@@ -21,7 +21,7 @@ Slowly add milk and whisk into a frothy batter.
 
 _Optional: Cover and leave in the fridge for an hour or so._
 
-pre-heat a dry cupcake tray in the oven at 220℃.
+Pre-heat a dry cupcake tray in the oven at 220℃.
 
 _Stir batter to remix if needed_
 
