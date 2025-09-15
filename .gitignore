@@ -1,0 +1,15 @@
+# Jekyll build artifacts
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby/Bundle artifacts  
+vendor/
+.bundle/
+Gemfile.lock
+
+# Temporary files
+*.tmp
+*.log
+*~
