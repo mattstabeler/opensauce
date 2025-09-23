@@ -13,6 +13,7 @@ _to make 2_
 - ~490g strong bread flour (white works best)
 - 375ml hand-warm water
 - 1/4 tsp dry bread yeast
+- 2 tsp salt (nice sea or rock salt - ~1tsp if it's the granulated stuff)
 
 Optional: 
 - replace up to ~20% of the water with milk or yoghurt. (makes it softer I think, but too much makes it soggy)
