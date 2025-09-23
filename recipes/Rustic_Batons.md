@@ -4,6 +4,9 @@
 This is a simple, no-knead recipe for tasty french-style rustic batons. 
 _Prep: 15 mins, wait time 8-12 hours, cook time 25 mins_
 
+<img width="400" height="533" alt="image" src="https://github.com/user-attachments/assets/2f529b40-764c-4967-851b-4c18f795c167" />
+
+
 # Ingredients 
 _to make 2_
 
