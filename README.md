@@ -6,13 +6,14 @@ These are my collected recipes for cooking and brewing.
 ## Food
 
 - [Yorkshire Puddings](recipes/Yorkshire_Puddings) 
+- [Sourdough Loaf](recipes/Sourdough_Loaf)
 
 ### Brewing
 
 - [How to Brew Beer](brewing/How_to_Brew_Beer)
 - [How Much to Sparge](brewing/How_Much_To_Sparge)
 
-### Recipes
+### Beer Recipes
 
 - [English Ale Recipe](brewing/Simple_English_Ale)
 - [Cherry Wine](brewing/Cherry_Wine)
@@ -23,13 +24,9 @@ These are my collected recipes for cooking and brewing.
 - [East India 1868 IPA](brewing/1868_IPA)
 - [Toast Ale Chocolate Stout](brewing/Toast_Chocolate_Stout) - uses bread
 - [Juicy Hazy IPA](brewing/Juicy_Hazy_IPA)
-- [Sourdough Loaf](recipes/Sourdough_Loaf)
-
 
 
 ## Blog
-
-
 
 <ul>
   {% for post in site.posts %}
