@@ -43,6 +43,4 @@ Prep a baking rack or tray with a non-stick baking sheet, pre-heat oven to 220C
 - one by one, flip over (to get more flour on) and immediately transfer to the baking rack, shaping to a rough baton shape
 - optonally: score along the length or at 45 degree angles (i found that scoring works best after a few minutes in the oven)
 - Bake for 25 mins
-- allow to cool so the moisture creates a crunchy crust
-
-- 
+- allow to cool so the moisture creates a crunchy crust 
