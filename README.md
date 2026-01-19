@@ -32,7 +32,11 @@ These are my collected recipes for cooking and brewing.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="/opensauce/{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+
+## DNS Setup
+
+For information on the custom domain configuration and DNS setup, see [DNS_SETUP.md](DNS_SETUP.md).
