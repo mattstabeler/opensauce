@@ -1,4 +1,4 @@
-theme: jekyll-theme-merlot
+# theme: jekyll-theme-merlot  # Removed - using custom theme
 google_analytics: UA-60465304-1
 # url: "https://opensauce.stabeler.com"
 # baseurl: ""
