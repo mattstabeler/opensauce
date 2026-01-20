@@ -41,7 +41,3 @@ These are my collected recipes for cooking and brewing.
     </li>
   {% endfor %}
 </ul>
-
-## DNS Setup
-
-For information on the custom domain configuration and DNS setup, see [DNS_SETUP.md](DNS_SETUP.md).
