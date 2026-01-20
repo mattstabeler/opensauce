@@ -1,4 +1,4 @@
-For this recipe, you need a sourdough starter ... howto coming soon, assuming you have it already:
+For this recipe, you need a [sourdough starter](recipes/Sourdough_Starter) ... how to coming soon, assuming you have it already:
 
 
 # Ingredients
