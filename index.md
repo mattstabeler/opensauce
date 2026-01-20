@@ -1,3 +1,8 @@
+---
+layout: default
+title: Matt's Open Sauce - Recipes and Brewing
+---
+
 ## Welcome to Matt's Open Sauce recipes
 
 These are my collected recipes for cooking and brewing. 

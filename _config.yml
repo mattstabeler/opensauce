@@ -2,3 +2,6 @@
 google_analytics: UA-60465304-1
 # url: "https://opensauce.stabeler.com"
 # baseurl: ""
+
+plugins:
+  - jekyll-seo-tag
