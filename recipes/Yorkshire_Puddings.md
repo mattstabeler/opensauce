@@ -1,3 +1,8 @@
+---
+layout: default
+title: Yorkshire Puddings
+---
+
 # Yorkshire Puddings
 
 Makes 12 small light and fluffy yorkshire puddings. 
